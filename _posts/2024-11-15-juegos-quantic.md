@@ -3,6 +3,7 @@ title: Juegos de Decisiones al Estilo Quantic Dream
 date: 2024-11-15 09:10:00 +07:00
 tags: [video games, storytelling, decisiones]
 description: Juegos de decisiones como los de Quantic Dream
+categories: mis-posts
 image: "quantic-dream.png"
 ---
 # Juegos de Decisiones al Estilo Quantic Dream

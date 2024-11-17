@@ -3,6 +3,7 @@ title: Electropop
 date: 2024-11-15 10:55:00 +07:00
 tags: [music, electronic, pop]
 description: Electropop
+categories: mis-posts
 image: "electropop.png"
 ---
 # Electropop
