@@ -7,10 +7,6 @@ image: "electropop.png"
 ---
 # Electropop
 
-<figure>
-<img src="/Millennial/assets/img/electropop.png" alt="Electropop">
-</figure>
-
 *Electropop* es un género musical que combina la energía y melodía del pop con la innovación y sonidos electrónicos. Nacido en la década de 1980, el electropop ha evolucionado hasta convertirse en uno de los géneros más influyentes y populares de la música moderna, destacándose por su fusión de sintetizadores, ritmos bailables y letras pegajosas.
 
 ---
